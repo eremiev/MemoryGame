@@ -1,0 +1,72 @@
+html, body{		
+					position: relative;
+					float: left;
+					background-color:#3B001E;
+					width:100%;
+					height:100%;
+					margin:0px;
+					padding:0px;
+					
+				}
+.page-frame{
+					position:relative;
+					width:950px;
+					height:auto;
+					margin: auto;
+					padding: 0;
+					/* border:1px solid white; */
+				}
+
+.header{
+					position:relative;
+					text-align: center;
+					width: 100%;
+					height: auto;
+					color:white;
+					font-size: 26px;
+					text-shadow: 1px 1px #000000;
+	}
+.flipbox-container{
+					position:relative;
+					float:left;
+					width:100%;
+					height:auto;
+					
+				}
+.flipbox{
+					position:relative;
+					float:left;
+					background-color: #420021;
+					width:294px;
+					height:150px;
+					margin:3px;
+					border: 1px solid white;
+					box-shadow: 1px 1px 1px 1px #888888;
+				}
+.shuffle{			position:relative; width: 100px;
+					height: 30px;
+				}
+#br{ 				position: relative;
+					width: 100%;
+					height: auto;
+					text-align: center;
+					text-align: center;
+					color:white;
+					font-size: 28px;
+				}
+.finish{
+		position: absolute;
+		display: none;
+		width: auto;
+		height: auto;
+		top:250px;
+		left: 32.5%;
+		font-size: 30px;
+		color:white;
+}
+
+
+
+
+				
+	
